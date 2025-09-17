@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project aims to predict weather parameters for the next day based on historical weather data using a Recurrent Neural Network (RNN). The system takes past sequences of weather features and outputs a predicted value for the following day. It is implemented in Python with libraries such as NumPy, PyTorch, and Gradio for interactive input and visualization.
+This project aims to predict weather parameters for the next day based on historical weather data using a Recurrent Neural Network (RNN). The system takes past sequences of weather features and outputs a predicted value for the following day. It is implemented in Python with libraries such as NumPy and PyTorch.
 
 ---
 
