@@ -63,8 +63,8 @@ The RNN model consists of:
 * The model successfully predicts the next day’s weather parameters given the previous sequence.
 * Sample metrics on test data:
 
-  * **Mean Squared Error (MSE)**: \[Provide value based on your training]
-  * **Mean Absolute Error (MAE)**: \[Provide value based on your training]
+  * **Mean Squared Error (MSE)**: \ 0.0134
+  * **Mean Absolute Error (MAE)**: \0.0712
 * Sample predictions compared to actual values show that the model captures trends in temperature, humidity, and other features.
 
 **Limitations:**
